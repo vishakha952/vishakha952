@@ -3,10 +3,9 @@
 <h3 align="center">I am a passionate full stack developer </h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
-- 🔭 I’m currently working on **MERN FULL STACK**
-
-- 💬 Ask me about linux,git,mongoDB
-- 🌱 I have currently learned **MERN Full stack**
+- 🚀 MERN Full-Stack Developer | ML Enthusiast
+  Currently working on MERN Full Stack projects.
+-🌱 Constantly learning & exploring AI/ML.
 -  👨‍💻 All of my projects are available at [https://github.com/vishakha952](https://github.com/vishakha952)
  
 -📫 How to reach me **vishakhat895@gmail.com**
