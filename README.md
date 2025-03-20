@@ -7,7 +7,7 @@
   
   Currently working on MERN Full Stack projects.
   
--🌱 Constantly learning & exploring AI/ML.
+🌱 Constantly learning & exploring AI/ML.
 -  👨‍💻 All of my projects are available at [https://github.com/vishakha952](https://github.com/vishakha952)
  
 -📫 How to reach me **vishakhat895@gmail.com**
