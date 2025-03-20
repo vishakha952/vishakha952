@@ -6,9 +6,7 @@
 - 🔭 I’m currently working on **MERN FULL STACK**
 
 - 💬 Ask me about linux,git,mongoDB
-- 
-- 🌱 I’m currently learning **react.js,express.js,node.js,mongoDB**
-- 
+- 🌱 I have currently learned **MERN Full stack**
 -📫 How to reach me **vishakhat895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
